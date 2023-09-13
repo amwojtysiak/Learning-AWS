@@ -1,0 +1,22 @@
+{
+  "name": "learning-aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amwojtysiak/Learning-AWS.git"
+  },
+  "author": "Adam Wojtysiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amwojtysiak/Learning-AWS/issues"
+  },
+  "homepage": "https://github.com/amwojtysiak/Learning-AWS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
