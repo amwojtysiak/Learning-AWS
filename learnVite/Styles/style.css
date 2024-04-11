@@ -1,0 +1,42 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;  
+}
+.nav-box {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: whitesmoke;
+    background-color: black;
+    padding: 10px 10px;
+}
+
+.logo {
+    width: 85px;
+}
+
+.nav-links-box {
+    display: flex;
+    width: 80%;
+    justify-content: flex-end;
+}
+
+.nav-link {
+    margin: 0 15px;
+    text-decoration: unset;
+    color: unset;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.hero-box {
+    padding: 0 10px;
+}
+

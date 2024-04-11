@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-img {
+    width: 160px;
+}
+
+.nav-items {
+    width: 50%;
+    display: flex;
+    justify-content: space-around; 
+    list-style: none;
+    font-weight: bolder;
+}
+
+.page-title {
+    border-top: 1px groove #61dafb;
+    border-bottom: 1px groove #61dafb;
+    padding: 16px 0px;
+}
+
+.diffLevel {
+    color: green;
+    font-weight: bolder;
+}
+
+.footer-box {
+    position: absolute;
+    bottom: 40px;
+}
